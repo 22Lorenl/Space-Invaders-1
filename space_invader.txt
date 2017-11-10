@@ -1,1 +1,4 @@
-print("Hello World")
+# print("Hello World")
+# Turtle = 500
+# Cookies = Turtle
+# Turtle + Cookies
