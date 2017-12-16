@@ -63,6 +63,7 @@ class Paddle:
    def forward(self, evt):
     self.y = -2
 
+    #Some trouble
 r = random.randint(0,255)
 b = random.randint(0,255)
 g = random.randint(0,255)
